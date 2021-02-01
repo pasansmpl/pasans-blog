@@ -30,6 +30,7 @@ export default function Meta() {
       <link rel="shortcut icon" href="/favicon/favicon.ico" />
       <meta name="msapplication-TileColor" content="#000000" />
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
+      <meta name="yandex-verification" content="d574b8a0a81856f3" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
